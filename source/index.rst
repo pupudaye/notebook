@@ -10,7 +10,7 @@ Welcome to PDY documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   ./rsts/Algorithm.rst
+   ./blockchain/Algorithm/index.rst
 
 
 .. Indices and tables

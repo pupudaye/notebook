@@ -5,4 +5,4 @@
 .. toctree::
    :maxdepth: 2
 
-   /note/Algorithm/Encryption
+   hamc
