@@ -7,11 +7,15 @@ Welcome to PDY documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
-   ./blockchain/Algorithm/index.rst
-
+   ./blockchain-principle/index.rst
+   ./blockchain-application/index.rst
+   ./python/index.rst
+   ./java/index.rst
+   ./golang/index.rst
+   ./rust/index.rst
 
 .. Indices and tables
 .. ==================
